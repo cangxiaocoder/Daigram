@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T11:41:15.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4287.0 Safari/537.36 Edg/88.0.673.0" etag="e5mn2xmZPugVB1Iawy9t" version="13.8.1" type="github"><diagram id="w6sPK4U5XrQKAN2HrAsp" name="Page-1">7Vhtb9owEP41/sgU8mo+JiHtPqzapGpvn6aUuMRaEmfGFNiv3/klkBBCqVq6VkKixX58Pt/Zz519ICcu19c8rfMblpEC2Va2Rs4U2fbYtW0kP1a20UjgG2DOaWaEdsAt/UsM6Bt0STOy6AgKxgpB6y44Y1VFZqKDpZyzVVfsnhXdVet0TnrA7Swt+uh3molco9gOdvhHQud5s/LYn+iRMm2ELQ0s8jRjqxbkJMiJOWNCt8p1TAq5ec2+6HlXA6NbwzipxCkTZk44Igm9yT+vbPa5/PJzfb0cGS0PabE0DiPbL0BfVHMijRYbsxP+n6W0NLpnlRgt1DmFIDD26/VuEFpz862ULOq0GtZyn5a02Gg9MJSWtZrqOC5856R4IILO0t6IlFb/VzkVZARrzIwxFeNlWvTNGW29gu3RNnXtvOP7CAiqHeiiz9qUm/DHr2/hp6/J0Bp2R7fN2bLKiDw96a9y9lb7Ol1BsMk9EmUBvTE0M8qB/pRV0F+wpeSe0fhAuCDrQdKMt1SEGCasJIJvQMRMCLCeYaJ3YrqrdihoKG9Fgd1EfWqib75VvCMoNAxHn8BX+zx8HTlnPPcO+96V8vfIWBsHb4uyziBl5RmcdDjewRyb+GjioihBiYewh0IPJQEKY/lJAMcIW6YRhkYGO1ImclEICdcC7iRXKIoRjg8kQpgxiaSg1hGF4AlgkYXwlcJChJMeQ9oKGt1gKJ401kTKUG0Nbvmwb/FRzWCaZTRPwB9fNWI1fWuhJ7tgAFzFtFJ3xnR7lVR3C32jWCP4a4eQPpMBfgMrRZfEnMAxpXdKQHI+XQqmD04NpwWdS37PgLyEAyCpDXdaEZqBkmaZnBzVjFZCUc+LkDeVJKBFEbOCwbRpxSoptBCc/SZ7YDfonhNBJmJcy+qFDKD9mPHdM4WMe7aQaQdIqBh0NECcCzM6uTWwO7nV7efW8fhAcm0e8y9OFO9ViHJCJr1kkX2u+I9TxcavSBX/8nK8vByPMtZt7rO38nIMXiu7TY5nN+uS2To8cd/YLYj/U4Vx0gPqKRVG8+TqPtJ7RcfjpcuRgkMr8/dXadUIlsqMezb0d8KXlkuNjlwJ2wMOwm7hA9Olpx9aJVKAsKsKGV3aJActGKpwjrgCi1yCt/2EbYqbY8WO579IsQPd3c+7aqz1I7mT/AM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-24T11:59:39.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4287.0 Safari/537.36 Edg/88.0.673.0" etag="iHLco57EXTBrs0n0aSmG" version="13.8.1" type="github">
+  <diagram id="w6sPK4U5XrQKAN2HrAsp" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c3A-eEiMhOw2oOmPYxGu-1" value="&lt;pre style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; white-space: normal&quot;&gt;-2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 16px&quot;&gt;MAX_VALUE&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="78" y="98" width="82" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="c3A-eEiMhOw2oOmPYxGu-2" value="&lt;pre style=&quot;font-size: 16px&quot;&gt;-3&lt;/pre&gt;&lt;pre style=&quot;font-size: 16px&quot;&gt;-2&lt;/pre&gt;&lt;pre style=&quot;font-size: 16px&quot;&gt;-2&lt;/pre&gt;&lt;pre style=&quot;font-size: 16px&quot;&gt;MAX_VALUE&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="287" y="98" width="82" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="c3A-eEiMhOw2oOmPYxGu-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;放入第一个元素 -2，&lt;br&gt;因为-3小于MAX_VALUE&lt;br&gt;，所以先放一个MAX_VALUE&lt;br&gt;同时最小值 min =&amp;nbsp; - 2&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="400" width="224" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="c3A-eEiMhOw2oOmPYxGu-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;第二个元素 -3&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="272" y="48" width="112" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="c3A-eEiMhOw2oOmPYxGu-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;第一个元素 - 2&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="62" y="48" width="128" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="c3A-eEiMhOw2oOmPYxGu-6" value="&lt;pre style=&quot;font-size: 16px&quot;&gt;0&lt;/pre&gt;&lt;pre style=&quot;font-size: 16px&quot;&gt;-3&lt;/pre&gt;&lt;pre style=&quot;font-size: 16px&quot;&gt;-2&lt;/pre&gt;&lt;pre style=&quot;font-size: 16px&quot;&gt;-2&lt;/pre&gt;&lt;pre style=&quot;font-size: 16px&quot;&gt;MAX_VALUE&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="464" y="98" width="82" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="c3A-eEiMhOw2oOmPYxGu-7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;第三个元素 0&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="442" y="48" width="112" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="c3A-eEiMhOw2oOmPYxGu-8" value="&lt;font style=&quot;font-size: 15px&quot;&gt;放入第二个元素 -3，&lt;br&gt;因为 -3&amp;nbsp;小于 -2，&lt;br&gt;所以先将&amp;nbsp;min = -2&amp;nbsp;放入栈。&lt;br&gt;在放入 -3.，然后&amp;nbsp;最小值&amp;nbsp;min = -3.&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="400" width="256" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="37tc3NVykcwyb9EOcFmx-1" value="&lt;span style=&quot;font-size: 15px&quot;&gt;放入第三个元素 0；&lt;br&gt;以为0不小于 -3，&lt;br&gt;所以&amp;nbsp;min的值依然为 -3，&lt;br&gt;直接将0&amp;nbsp;放入栈中。&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="442" y="400" width="192" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
